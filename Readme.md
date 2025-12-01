@@ -1,10 +1,3 @@
-﻿!!IMPORTANTE!!
-CASO OCORRA O ERRO DE NÃO LOCALIZAR A PASTA '..\bin\roslyn\csc.exe' ABRA AS FERRAMENTAS->NuGet Packege Manager->Package Manager Console E NO CONSOLE EXECUTE O COMANDO:
-
-Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
-
-ESTE ERRO ESTÁ OCORRENDO NESTA VERSÃO DO COMPILADOR EM ESPECIFICO E NÃO ENCONTREI UMA SOLUÇÃO MAIS PRATICA, OCORRENDO QUANDO IMPORTA/BAIXA DO GITHUB
-!!IMPORTANTE!!
 
 E-commerce de Fast Food (ASP.NET Web Forms) - Crazy Pizza
 Alunos: Eduardo José Rodrigues e João Santolin Azevedo.
@@ -81,3 +74,4 @@ possibilitando inserir, editar e excluir itens via sistema administrativo no fut
 Para o design de nosso e-commerce foi adotado um layout limpo, sóbrio e condizente com a proposta, fundo de cor quente mas em tom claro, com 
 a Navbar e footer em tons mais fortes, sempre piorizando a resposividade e fluidez na navegação. 
 No painel do Administrador foi proposto um tema de cor mais fria mas sem perder a identidade visual que propusemos. 
+
